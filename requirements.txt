@@ -1,0 +1,5 @@
+# Adventure Game Requirements
+
+# This project only uses Python's standard library modules.
+
+# Tested with Python 3.8+
