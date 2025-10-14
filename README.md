@@ -22,12 +22,10 @@ Each game session offers a different experience as the villain is randomly chose
 
 ##  Project Structure
 adventure_game/
+
 │
-
 ├── adventure_game.py # Main game logic
-
 ├── requirements.txt # Environment info
-
 └── README.md # Project documentation
 
 ##  How to Run
