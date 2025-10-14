@@ -69,12 +69,11 @@ What would you like to do?
 - Add colors or sound effects for better immersion
 
 ## Author
-- Muzna Mokashi
-Python Developer & Data Analyst in progress 🐍📊
+- Muzna Mokashi (Python Developer & Data Analyst in progress 🐍📊)
 GitHub Profile : https://github.com/muzna500
 
 
-#### 🏁 Enjoy the game and may your sword always strike true!
+### 🏁 Enjoy the game and may your sword always strike true!
 
 
 
