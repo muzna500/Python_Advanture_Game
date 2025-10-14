@@ -24,8 +24,11 @@ Each game session offers a different experience as the villain is randomly chose
 adventure_game/
 
 │
+
 ├── adventure_game.py # Main game logic
+
 ├── requirements.txt # Environment info
+
 └── README.md # Project documentation
 
 ##  How to Run
@@ -43,13 +46,19 @@ adventure_game/
 ## Sample Gameplay
 
 You find yourself standing in an open field, filled with grass and yellow wildflowers.
+
 Rumor has it that a dragon is somewhere around here, and has been terrifying the nearby village.
+
 In front of you is a house.
+
 To your right is a dark cave.
+
 In your hand, you hold your trusty (but not very effective) dagger.
 
 Enter 1 to knock on the door of the house.
+
 Enter 2 to peer into the cave.
+
 What would you like to do?
 
 ## Future Improvements
@@ -58,6 +67,14 @@ What would you like to do?
 - Implement player health and enemy attack system
 - Introduce inventory and scoring
 - Add colors or sound effects for better immersion
+
+## Author
+- Muzna Mokashi
+Python Developer & Data Analyst in progress 🐍📊
+GitHub Profile : https://github.com/muzna500
+
+
+#### 🏁 Enjoy the game and may your sword always strike true!
 
 
 
