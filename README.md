@@ -70,7 +70,7 @@ What would you like to do?
 
 ## Author
 - Muzna Mokashi (Python Developer & Data Analyst in progress 🐍📊)
-GitHub Profile : https://github.com/muzna500
+- GitHub Profile : https://github.com/muzna500
 
 
 ### 🏁 Enjoy the game and may your sword always strike true!
